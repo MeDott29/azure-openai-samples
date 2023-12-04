@@ -2,7 +2,7 @@
   "name": "chat-app-interface",
   "version": "1.0.0",
   "description": "A chat app interface for the Azure OpenAI Samples project",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node index.js"
   },
